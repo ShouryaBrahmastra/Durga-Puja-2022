@@ -60,7 +60,127 @@
 }
 
 .services .content .services8x:hover {
-    box-shadow: 0 0 20px 0px rgb(255, 255, 255);
+    box-shadow: 0 0 20px 0px rgb(249, 248, 248);
+}
+
+.services8x2{
+    border-radius: 30px;
+    padding: 40px 20px;
+    max-width: 340px;
+    margin: 20px;
+    transition: 0.5s;
+    text-align: center;
+    background: transparent;
+    box-sizing: border-box;
+}
+
+.services8x2:hover {
+    box-shadow: 0 0 20px 0px rgb(247, 4, 4);
+}
+
+.services8x3{
+    border-radius: 30px;
+    padding: 40px 20px;
+    max-width: 340px;
+    margin: 20px;
+    transition: 0.5s;
+    text-align: center;
+    background: transparent;
+    box-sizing: border-box;
+}
+
+.services8x3:hover {
+    box-shadow: 0 0 20px 0px rgb(40, 13, 195);
+}
+
+.services8x4{
+    border-radius: 30px;
+    padding: 40px 20px;
+    max-width: 340px;
+    margin: 20px;
+    transition: 0.5s;
+    text-align: center;
+    background: transparent;
+    box-sizing: border-box;
+}
+
+.services8x4:hover {
+    box-shadow: 0 0 20px 0px rgb(244, 228, 4);
+}
+
+.services8x5{
+    border-radius: 30px;
+    padding: 40px 20px;
+    max-width: 340px;
+    margin: 20px;
+    transition: 0.5s;
+    text-align: center;
+    background: transparent;
+    box-sizing: border-box;
+}
+
+.services8x5:hover {
+    box-shadow: 0 0 20px 0px rgb(6, 250, 83);
+}
+
+.services8x6{
+    border-radius: 30px;
+    padding: 40px 20px;
+    max-width: 340px;
+    margin: 20px;
+    transition: 0.5s;
+    text-align: center;
+    background: transparent;
+    box-sizing: border-box;
+}
+
+.services8x6:hover {
+    box-shadow: 0 0 20px 0px rgb(149, 150, 150);
+}
+
+.services8x7{
+    border-radius: 30px;
+    padding: 40px 20px;
+    max-width: 340px;
+    margin: 20px;
+    transition: 0.5s;
+    text-align: center;
+    background: transparent;
+    box-sizing: border-box;
+}
+
+.services8x7:hover {
+    box-shadow: 0 0 20px 0px rgb(255, 132, 0);
+}
+
+.services8x8{
+    border-radius: 30px;
+    padding: 40px 20px;
+    max-width: 340px;
+    margin: 20px;
+    transition: 0.5s;
+    text-align: center;
+    background: transparent;
+    box-sizing: border-box;
+}
+
+.services8x8:hover {
+    box-shadow: 0 0 20px 0px rgb(9, 239, 9);
+}
+
+.services8x9{
+    border-radius: 30px;
+    padding: 40px 20px;
+    max-width: 340px;
+    margin: 20px;
+    transition: 0.5s;
+    text-align: center;
+    background: transparent;
+    box-sizing: border-box;
+}
+
+.services8x9:hover {
+    box-shadow: 0 0 20px 0px rgb(245, 15, 199);
 }
 
 h3 {
